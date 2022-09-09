@@ -1,4 +1,5 @@
-# MySQL基础篇
+# [MySQL基础篇](MySQL基础篇.md)
+
 + 第01章：数据库概述
 + 第02章：MySQL环境搭建
 + 第03章：基本的SELECT语句
