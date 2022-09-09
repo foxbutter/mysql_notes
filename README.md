@@ -1,8 +1,6 @@
 # 学习笔记
 
->参考：
->
-> https://github.com/codinglin/StudyNotes
+>参考https://github.com/codinglin/StudyNotes
 > 
 
 
